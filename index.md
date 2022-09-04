@@ -1,7 +1,3 @@
----
-layout: default
-title: The HuMus project: Analyzing Hungarian popular music lyrics using statistical natural language processing methods
----
+# The HuMus project: Analyzing Hungarian popular music lyrics using statistical natural language processing methods
 
-
-xxx
+.....
