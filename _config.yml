@@ -1,1 +1,13 @@
-theme: minima
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge
+
+title : humus
+author :
+  name : bz
+  email : zalan.bodo@gmail.com
+  github : zalanbodo
+  feedburner : nil
+
+production_url : https://zalanbodo.github.io/humus
+
+markdown: kramdown
